@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: gradle-nexus-demo
+server:
+  port: 8080
